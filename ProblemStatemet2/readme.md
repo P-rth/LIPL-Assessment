@@ -1,3 +1,4 @@
+
 # nPM1100 Evaluation Board – Circuit and PCB Explanation
 
 ## Overview
@@ -8,6 +9,7 @@ This project is a compact evaluation PCB designed for the **nPM1100 Power Manage
 - **PCB layers**: 2  
 - **All components**: Surface-mounted on the top layer  
 - **Header pitch**: Standard 2.54 mm (0.1")
+
 
 ## Functional Overview
 
@@ -57,9 +59,16 @@ This project is a compact evaluation PCB designed for the **nPM1100 Power Manage
 - The compact footprint (22 mm × 16 mm) is achieved through careful component placement and dense routing.
 - The board outline is defined in the `Edge.Cuts` layer.
 
+
+## PCB Images
+
+### Top View
+![Top View](https://i.ibb.co/RphNXJW7/frontcrop.jpg)
+### Bottom View
+![Bottom View](https://i.ibb.co/fdS4YsFV/backcrop.jpg)
+
 ## Summary
 
 This evaluation board provides a minimal, efficient platform for evaluating and integrating the nPM1100 PMIC into embedded systems. It includes all supporting components for power regulation, battery charging, and system voltage monitoring, while keeping the design compact and practical for prototyping.
 
 **Designed by: Parth Sahni**
-
